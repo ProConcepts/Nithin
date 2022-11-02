@@ -1,0 +1,25 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "AddOrEdit";
+    Layout = "_Layout";
+}
+
+
+<h4>Edit Employee Form</h4>
+<hr />
+<div class="text-danger m-2">
+    @ViewBag.Message
+</div>
+
+
+<div class="row">
+    <div class="col-md-6 m-1">
+        <form asp-action="EditEmployee" method="post">
+            <partial name="_EmployeeDetailsPartial" />
+        </form>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+    }

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\ProConcepts</_PublishTargetUrl>
+    <History>False|2022-09-08T18:03:44.5646517Z;True|2022-09-08T23:25:46.8791665+05:30;False|2022-09-08T23:23:13.7453079+05:30;False|2022-09-08T23:22:40.9152481+05:30;False|2022-09-08T23:21:57.0087028+05:30;False|2022-09-08T23:19:59.6704975+05:30;True|2021-07-15T14:31:31.1848201+05:30;True|2021-07-09T17:35:28.7237950+05:30;True|2021-07-09T14:36:41.9813700+05:30;True|2021-07-09T12:31:38.7163939+05:30;False|2021-07-09T12:30:16.1842892+05:30;False|2021-07-09T12:28:55.0478855+05:30;</History>
+  </PropertyGroup>
+</Project>
